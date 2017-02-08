@@ -1,4 +1,5 @@
 #-*- coding:utf-8 -*-
+# python version 2.7
 import urllib
 import urllib2
 import re
